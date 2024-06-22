@@ -1,4 +1,4 @@
-# Connection
+# Connection the one connected over USB (if there is exact
 
 ## Selection
 
